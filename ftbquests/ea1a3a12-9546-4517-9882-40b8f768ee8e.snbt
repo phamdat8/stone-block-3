@@ -1,0 +1,20 @@
+{
+	version: 1
+	uuid: "ea1a3a1295464517988240b8f768ee8e"
+	name: "dat"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: {
+		3D09157036E15C1B: 35
+	}
+	started: {
+		0000000000000001: 1676724954935L
+		3D09157036E15C1B: 1676724954935L
+		795DBF9B4CEE8D83: 1676724954935L
+		6EFE085DB6A2A41A: 1676724954935L
+	}
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

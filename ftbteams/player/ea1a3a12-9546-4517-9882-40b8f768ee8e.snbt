@@ -1,0 +1,19 @@
+{
+	id: "ea1a3a12-9546-4517-9882-40b8f768ee8e"
+	type: "player"
+	player_name: "dat"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "dat"
+		"ftbteams:color": "#59C6FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: {
+		Money: 20L
+	}
+}

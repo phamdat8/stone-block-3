@@ -1,0 +1,20 @@
+{
+	version: 1
+	uuid: "f299943215d33fceb836695aa91e5c43"
+	name: "sunbeam"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: {
+		3D09157036E15C1B: 30
+	}
+	started: {
+		0000000000000001: 1676725223072L
+		3D09157036E15C1B: 1676725223072L
+		795DBF9B4CEE8D83: 1676725223072L
+		6EFE085DB6A2A41A: 1676725223072L
+	}
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
